@@ -17,16 +17,6 @@ export default function Footer() {
             <p className="text-sm leading-relaxed font-body text-cream-200/60">
               La mejor panadería artesanal de Montería, Colombia. Horneado con amor desde el corazón costeño.
             </p>
-            <div className="flex gap-3 mt-5">
-              {['📘', '📸', '🎵'].map((ico, i) => (
-                <button
-                  key={i}
-                  className="flex items-center justify-center text-sm transition-colors rounded-full w-9 h-9 bg-cream-50/10 hover:bg-caramel-500"
-                >
-                  {ico}
-                </button>
-              ))}
-            </div>
           </div>
 
           {/* Sedes */}

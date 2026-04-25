@@ -1,1 +1,1 @@
-export const WA_NUMBER = "573046138742"; 
+export const WA_NUMBER = "573013325096"; 

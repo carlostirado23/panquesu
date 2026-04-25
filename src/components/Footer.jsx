@@ -75,7 +75,9 @@ export default function Footer() {
             © {new Date().getFullYear()} Panquesú · Todos los derechos reservados
           </p>
           <p className="text-xs font-body text-cream-200/40">
-            Hecho con 🥐 en Montería, Colombia
+            Hecho por <a href="https://www.instagram.com/carlosmariotirado/" target="_blank" rel="noreferrer" className="underline text-cream-200/60 hover:text-cream-200">
+              Carlos Tirado
+            </a>
           </p>
         </div>
       </div>

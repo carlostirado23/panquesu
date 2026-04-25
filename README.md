@@ -4,7 +4,7 @@ Página web oficial de **Panquesú**, la panadería artesanal de Montería, Colo
 
 ## Tecnologías
 
-- React 18 (JSX, sin TypeScript)
+- React 18 (JSX)
 - Tailwind CSS v3
 - Create React App
 
